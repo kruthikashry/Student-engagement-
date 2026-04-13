@@ -29,9 +29,11 @@ This project uses Computer Vision and AI techniques to monitor student engagemen
 ```bash
 pip install -r requirements.txt
 python main.py
-
+```
 ## 👩‍💻 Author
-**Kruthikashree SK**  
-MCA Student | Aspiring Full Stack Developer  
+**Kruthikashree S K**  
+MCA Student | Aspiring Developer  
 
-🔗 GitHub: https://github.com/kruthikashry
+🔗 GitHub: https://github.com/kruthikashry  
+🔗 LinkedIn: www.linkedin.com/in/kruthikashree-sk
+
